@@ -10,6 +10,9 @@
 #include "strprintf.h"
 #include "utils.h"
 
+#define TRUE true
+#define FALSE false
+
 #define NEWSBLUR_ITEMS_PER_PAGE 6
 
 namespace newsboat {
